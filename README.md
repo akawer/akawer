@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### I'm a software engineer @MSFT with an interest in offensive security, ML and cloud computing
+### I also enjoy photography quite a bit!
 
-<!--
-**akawer/akawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can reach me at:
 
-Here are some ideas to get you started:
+[<img align="left" alt="website" width="22px" src="https://image.flaticon.com/icons/svg/814/814513.svg" />][website]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[website]: https://akawer.github.io/
+[twitter]: https://twitter.com/akawer
+[instagram]: https://instagram.com/aaronkawer
+[linkedin]: https://linkedin.com/in/aaronkawer
