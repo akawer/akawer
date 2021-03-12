@@ -1,6 +1,7 @@
 ## Hi there 👋
-### I'm a software engineer @MSFT with an interest in offensive security, ML and cloud computing
-### I also enjoy photography quite a bit!
+### I'm a software engineer @MSFT working in offensive security.  
+### Other interests include ML and cloud computing.
+### I also enjoy photography and music quite a bit!
 
 ### You can reach me at:
 
