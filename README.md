@@ -1,6 +1,5 @@
 ## Hi there 👋
-### I'm a security software engineer @MSFT working in offensive security.  
-### Other interests include ML and cloud computing.
+### I'm a security software engineer working on detection engineering | offensive&defensive security | Machine Learning  
 ### I also enjoy photography and music quite a bit!
 
 ### You can reach me at:
