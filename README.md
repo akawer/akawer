@@ -1,15 +1,24 @@
-## Hi there 👋
-### I'm a security software engineer working on detection engineering | offensive&defensive security | Machine Learning  
-### I also enjoy photography and music quite a bit!
+# Hi, I’m Aaron
 
-### You can reach me at:
+Senior Security Engineer focused on detection engineering, offensive security, and practical AI security tooling.
 
-[<img align="left" alt="website" width="22px" src="https://i.imgur.com/I61P0Sh.png" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://i.imgur.com/4JHODAo.png" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://i.imgur.com/bIR9Vfd.png" />][instagram]
+I started as a Software Engineer at Microsoft before moving into Microsoft’s Red Team, where I worked on adversary-minded security assessments across Azure services, applications, authentication flows, distributed systems, and protocols. I now focus on building high-signal detections, detection-as-code workflows, threat hunting processes, and security tooling informed by realistic attacker behavior.
 
-<br />
+Current areas of interest:
 
-[website]: https://akawer.github.io/
-[instagram]: https://instagram.com/aaronkawer
-[linkedin]: https://linkedin.com/in/aaronkawer
+* Detection Engineering
+* Offensive Security
+* AI Security
+* Application Security
+* Secure Code Review
+* Detection-as-Code
+* Threat Hunting
+* Security Tooling
+
+I also enjoy photography and music.
+
+You can find me here:
+
+* Website: https://akawer.github.io/
+* LinkedIn: https://linkedin.com/in/aaronkawer
+* Instagram: https://instagram.com/aaronkawer
