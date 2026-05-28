@@ -1,24 +1,40 @@
-# Hi, I’m Aaron
+<h1 align="center">Hi, I'm Aaron </h1>
 
-Senior Security Engineer focused on detection engineering, offensive security, and practical AI security tooling.
+<p align="center">
+  <b>Senior Security Engineer</b><br/>
+  Detection Engineering · Offensive Security · AI Security<br/>
+  Ex-Microsoft Red Team
+</p>
 
-I started as a Software Engineer at Microsoft before moving into Microsoft’s Red Team, where I worked on adversary-minded security assessments across Azure services, applications, authentication flows, distributed systems, and protocols. I now focus on building high-signal detections, detection-as-code workflows, threat hunting processes, and security tooling informed by realistic attacker behavior.
+<p align="center">
+  <a href="https://akawer.github.io/">Website</a> ·
+  <a href="https://linkedin.com/in/aaronkawer">LinkedIn</a> ·
+  <a href="https://instagram.com/aaronkawer">Photography</a>
+</p>
 
-Current areas of interest:
+---
 
-* Detection Engineering
-* Offensive Security
-* AI Security
-* Application Security
-* Secure Code Review
-* Detection-as-Code
-* Threat Hunting
-* Security Tooling
+I’m a security engineer focused on building practical security systems informed by real attacker behavior.
 
-I also enjoy photography and music.
+I started my career as a Software Engineer at Microsoft before moving into Microsoft’s Red Team, where I worked on adversary-minded security assessments across large-scale services, applications, authentication flows, distributed systems, and protocols.
 
-You can find me here:
+Today, my work focuses on detection engineering, detection-as-code, threat hunting, telemetry quality, and high-signal detection design. I’m especially interested in building security tooling that helps teams reason through attack paths, close coverage gaps, and improve security operations.
 
-* Website: https://akawer.github.io/
-* LinkedIn: https://linkedin.com/in/aaronkawer
-* Instagram: https://instagram.com/aaronkawer
+I’m also exploring practical AI security tooling, particularly where it can improve analyst productivity, knowledge retrieval, PR workflows, and detection development.
+
+<table>
+  <tr>
+    <td><b>Detection Engineering</b></td>
+    <td>High-signal detections, detection-as-code, telemetry quality, threat hunting.</td>
+  </tr>
+  <tr>
+    <td><b>Offensive Security</b></td>
+    <td>Red team-informed detection design, attack path analysis, secure code review.</td>
+  </tr>
+  <tr>
+    <td><b>Security Tooling</b></td>
+    <td>Python or Rust-based tooling for security workflows, investigations, and detection development.</td>
+  </tr>
+</table>
+
+Outside of security, I enjoy photography and music.
