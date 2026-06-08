@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaron </h1>
+<h1 align="center">Hi, I'm Aaron Kawer</h1>
 
 <p align="center">
   <b>Senior Security Engineer</b><br/>
@@ -20,20 +20,22 @@ I started my career as a Software Engineer at Microsoft before moving into Micro
 
 Today, my work focuses on detection engineering, detection-as-code, threat hunting, telemetry quality, and high-signal detection design. I’m especially interested in building security tooling that helps teams reason through attack paths, close coverage gaps, and improve security operations.
 
-I’m also exploring practical AI security tooling, particularly where it can improve analyst productivity, knowledge retrieval, PR workflows, and detection development.
+I also build practical AI security tooling where it can improve analyst productivity, knowledge retrieval, PR workflows, and detection development.
+
+### What I focus on
 
 <table>
   <tr>
-    <td><b>Detection Engineering</b></td>
-    <td>High-signal detections, detection-as-code, telemetry quality, threat hunting.</td>
+    <td><b>Attacker-informed detection</b></td>
+    <td>Designing detections from realistic attack paths, telemetry gaps, and incident response needs.</td>
   </tr>
   <tr>
-    <td><b>Offensive Security</b></td>
-    <td>Red team-informed detection design, attack path analysis, secure code review.</td>
+    <td><b>Security engineering</b></td>
+    <td>Building maintainable detection-as-code workflows, internal tooling, and scalable security processes.</td>
   </tr>
   <tr>
-    <td><b>Security Tooling</b></td>
-    <td>Python or Rust-based tooling for security workflows, investigations, and detection development.</td>
+    <td><b>Offensive-to-defensive security</b></td>
+    <td>Using red team experience to improve detection coverage, secure code review, and practical defensive controls.</td>
   </tr>
 </table>
 
